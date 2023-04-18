@@ -1,0 +1,15 @@
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\bin\Debug\net6.0\SmallChallenges.exe
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\bin\Debug\net6.0\SmallChallenges.deps.json
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\bin\Debug\net6.0\SmallChallenges.runtimeconfig.json
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\bin\Debug\net6.0\SmallChallenges.dll
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\bin\Debug\net6.0\SmallChallenges.pdb
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\obj\Debug\net6.0\SmallChallenges.csproj.AssemblyReference.cache
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\obj\Debug\net6.0\SmallChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\obj\Debug\net6.0\SmallChallenges.AssemblyInfoInputs.cache
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\obj\Debug\net6.0\SmallChallenges.AssemblyInfo.cs
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\obj\Debug\net6.0\SmallChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\obj\Debug\net6.0\SmallChallenges.dll
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\obj\Debug\net6.0\refint\SmallChallenges.dll
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\obj\Debug\net6.0\SmallChallenges.pdb
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\obj\Debug\net6.0\SmallChallenges.genruntimeconfig.cache
+C:\Users\Joseph.Bridgen\source\repos\SmallChallenges\SmallChallenges\obj\Debug\net6.0\ref\SmallChallenges.dll
